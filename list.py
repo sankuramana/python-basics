@@ -17,3 +17,5 @@ print("fetching index:", names_list.index("sandeep"))
 name_list_1=["rakesh","ramesh"]
 #prinitng  two list at a time
 print(name_list_1,names_list)
+print(type(names_list))
+print(type(name_list_1))
